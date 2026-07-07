@@ -1,0 +1,6 @@
+{
+  "name": "Hydrocarbon Halogenation Lab",
+  "description": "An interactive virtual laboratory for testing saturated and unsaturated hydrocarbons using halogens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
